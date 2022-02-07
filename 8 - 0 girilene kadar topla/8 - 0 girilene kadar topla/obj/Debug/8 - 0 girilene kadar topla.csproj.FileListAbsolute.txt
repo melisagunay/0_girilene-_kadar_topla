@@ -1,0 +1,10 @@
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\bin\Debug\8 - 0 girilene kadar topla.exe.config
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\bin\Debug\8 - 0 girilene kadar topla.exe
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\bin\Debug\8 - 0 girilene kadar topla.pdb
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\obj\Debug\8 - 0 girilene kadar topla.csproj.AssemblyReference.cache
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\obj\Debug\_8___0_girilene_kadar_topla.Form1.resources
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\obj\Debug\_8___0_girilene_kadar_topla.Properties.Resources.resources
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\obj\Debug\8 - 0 girilene kadar topla.csproj.GenerateResource.cache
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\obj\Debug\8 - 0 girilene kadar topla.csproj.CoreCompileInputs.cache
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\obj\Debug\8 - 0 girilene kadar topla.exe
+C:\Users\asusk\source\repos\8 - 0 girilene kadar topla\8 - 0 girilene kadar topla\obj\Debug\8 - 0 girilene kadar topla.pdb
